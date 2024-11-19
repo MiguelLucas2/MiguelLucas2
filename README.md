@@ -2,5 +2,6 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />" width="40" height="40"/>
-          
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<i class="devicon-python-plain" style="font-size: 40px;"></i>
